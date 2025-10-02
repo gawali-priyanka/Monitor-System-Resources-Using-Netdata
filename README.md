@@ -8,7 +8,7 @@ This task demonstrates how to install and run **Netdata** using Docker to monito
 ## Tools & Technologies
 - **Netdata** (Free, open-source monitoring tool)
 - **Docker**
-- **Linux/Ubuntu (or AWS EC2 Instance)**
+- **Linux**
 
 ---
 
