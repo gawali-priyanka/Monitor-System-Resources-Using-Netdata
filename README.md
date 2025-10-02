@@ -16,7 +16,7 @@ This task demonstrates how to install and run **Netdata** using Docker to monito
 
 ### 1️ Install Docker
 
-```bash
+bash
 sudo apt update -y
 sudo apt install docker.io -y
 sudo systemctl enable docker
@@ -49,11 +49,21 @@ Ensure TCP Port 19999 is allowed in your Security Group.
 
 ## Screenshot
 ---
-![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/pods.png?raw=true)
-
------
-![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/pods.png?raw=true)
-
+Access Dashbord
+---
+![Branches](https://github.com/gawali-priyanka/Monitor-System-Resources-Using-Netdata/blob/main/screenshots/Access-dashbord1.png?raw=true)
+---
+Logs
 ----
-![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/pods.png?raw=true)
+![Branches](https://github.com/gawali-priyanka/Monitor-System-Resources-Using-Netdata/blob/main/screenshots/Logs.png?raw=true)
+-----
+Cloud watch Metrics
+----
+![Branches](https://github.com/gawali-priyanka/Monitor-System-Resources-Using-Netdata/blob/main/screenshots/Cloudwatch-matrix.png?raw=true)
+----
+Docker container
+-----
+![Branches](https://github.com/gawali-priyanka/Monitor-System-Resources-Using-Netdata/blob/main/screenshots/Docker-container.png?raw=true)
+
+
 
